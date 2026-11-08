@@ -1,12 +1,12 @@
 {
  "export": "statsbridge-bundle",
  "v": 1,
- "publishedAt": 1794176372050,
+ "publishedAt": 1794178092866,
  "publishedBy": "Danny-PC",
  "prep": {
   "v": 2,
   "config": {
-   "baseUrl": "https://raw.githubusercontent.com/ymmstudios/imagenes-graficos-vmix-santeros/main/",
+   "baseUrl": "https://raw.githubusercontent.com/ymmstudios/imagenes-graficos-vmix-santeros/",
    "defaultPhoto": ""
   },
   "players": [
@@ -1286,8 +1286,8 @@
    }
   },
   "meta": {
-   "rev": 83,
-   "savedAt": 1794176337542,
+   "rev": 86,
+   "savedAt": 1794178092750,
    "savedBy": "Danny-PC"
   }
  },
