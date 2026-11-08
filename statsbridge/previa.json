@@ -1,0 +1,1276 @@
+{
+ "export": "statsbridge-bundle",
+ "v": 1,
+ "publishedAt": 1794169034027,
+ "publishedBy": "LOQYanier",
+ "prep": {
+  "v": 2,
+  "config": {
+   "baseUrl": "https://raw.githubusercontent.com/ymmstudios/imagenes-graficos-vmix-santeros/main/",
+   "defaultPhoto": ""
+  },
+  "players": [
+   {
+    "team": "Santeros · Aguada",
+    "first": "Justin",
+    "last": "Cuevas",
+    "num": "00",
+    "pos": "F",
+    "file": "Santeros/Justin_Cuevas.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Nehiel",
+    "last": "Perez",
+    "num": "2",
+    "pos": "G",
+    "file": "Santeros/Nehiel_Perez.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Edyf",
+    "last": "Camara",
+    "num": "3",
+    "pos": "PG",
+    "file": "Santeros/Edyf_Camara.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Carlos",
+    "last": "Franco",
+    "num": "4",
+    "pos": "F",
+    "file": "Santeros/Carlos_Franco.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Kenneth",
+    "last": "Lopez",
+    "num": "7",
+    "pos": "SG",
+    "file": "Santeros/Kenneth_Lopez.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Yanuel",
+    "last": "Ramos",
+    "num": "9",
+    "pos": "G",
+    "file": "Santeros/Yanuel_Ramos.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Kelvin",
+    "last": "Chaparro",
+    "num": "10",
+    "pos": "F",
+    "file": "Santeros/Kelvin_Chaparro.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Justin",
+    "last": "Davis",
+    "num": "13",
+    "pos": "F",
+    "file": "Santeros/Justin_Davis.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Jeriel",
+    "last": "Zayas",
+    "num": "14",
+    "pos": "G",
+    "file": "Santeros/Jeriel_Zayas.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Yeriel",
+    "last": "Noriega",
+    "num": "18",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Kevin",
+    "last": "Lorenzo",
+    "num": "21",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Yamil",
+    "last": "Mercado",
+    "num": "8",
+    "pos": "SG",
+    "file": "Santeros/Yamil_Mercado.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Kerry",
+    "last": "Lorenzo",
+    "num": "24",
+    "pos": "C",
+    "file": "Santeros/Kerry_Lorenzo.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Carlos",
+    "last": "Barea",
+    "num": "29",
+    "pos": "F",
+    "file": "Santeros/Carlos_Barea.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Keven",
+    "last": "Caban",
+    "num": "32",
+    "pos": "C",
+    "file": "Santeros/Keven_Caban.png"
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Anthony",
+    "last": "Goss",
+    "num": "0",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Jose",
+    "last": "Del Rosario",
+    "num": "0",
+    "pos": "G",
+    "file": "Cafeteros/Jose_Del_Rosario.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Luis",
+    "last": "Rigual",
+    "num": "1",
+    "pos": "G",
+    "file": "Cafeteros/Luis_Rigual.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Bradley",
+    "last": "Padilla",
+    "num": "7",
+    "pos": "C",
+    "file": "Cafeteros/Bradley_Padilla.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Gabriel",
+    "last": "Baez",
+    "num": "8",
+    "pos": "F",
+    "file": "Cafeteros/Gabriel_Baez.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Christian",
+    "last": "Torres",
+    "num": "10",
+    "pos": "G",
+    "file": "Cafeteros/Christian_Torres.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Kevin",
+    "last": "Paneto",
+    "num": "11",
+    "pos": "G",
+    "file": "Cafeteros/Kevin_Paneto.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Abdiel",
+    "last": "Ramos",
+    "num": "12",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Miguel",
+    "last": "Mori",
+    "num": "13",
+    "pos": "F",
+    "file": "Cafeteros/Miguel_Mori.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Ernesto",
+    "last": "Torres",
+    "num": "14",
+    "pos": "G",
+    "file": "Cafeteros/Ernesto_Torres.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Victor",
+    "last": "Guadalupe",
+    "num": "23",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Jan",
+    "last": "Hernandez",
+    "num": "24",
+    "pos": "G",
+    "file": "Cafeteros/Jan_Hernandez.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Neftali",
+    "last": "Acevedo",
+    "num": "32",
+    "pos": "F",
+    "file": "Cafeteros/Neftali_Acevedo.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Jaycob",
+    "last": "Rodriguez",
+    "num": "33",
+    "pos": "PF",
+    "file": "Cafeteros/Jaycob_Rodriguez.png"
+   },
+   {
+    "team": "Cafeteros · Yauco",
+    "first": "Jaime",
+    "last": "Perez",
+    "num": "35",
+    "pos": "F",
+    "file": "Cafeteros/Jaime_Perez.png"
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Joessel",
+    "last": "Jimenez",
+    "num": "0",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Juan",
+    "last": "Soto",
+    "num": "4",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Daniel",
+    "last": "Perez",
+    "num": "5",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Jonathan",
+    "last": "Suarez",
+    "num": "7",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Justin",
+    "last": "Medina",
+    "num": "8",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Luis",
+    "last": "Machado",
+    "num": "10",
+    "pos": "PF",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Dariel",
+    "last": "Soto",
+    "num": "11",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Jerome",
+    "last": "Caraballo",
+    "num": "14",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Janiel",
+    "last": "Medina",
+    "num": "15",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Darvin",
+    "last": "Hidalgo",
+    "num": "23",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Jantzen",
+    "last": "Cordero",
+    "num": "24",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Joseamid",
+    "last": "Lorenzo",
+    "num": "25",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Explosivos · Moca",
+    "first": "Angel",
+    "last": "Gonzalez",
+    "num": "31",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Jan",
+    "last": "Rodriguez",
+    "num": "1",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Khalil",
+    "last": "Stevenson",
+    "num": "2",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Janiel",
+    "last": "Deliz",
+    "num": "5",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Javier",
+    "last": "Quinones",
+    "num": "7",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Jonathan",
+    "last": "Segui",
+    "num": "8",
+    "pos": "SG",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Daniel",
+    "last": "Perez",
+    "num": "9",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Gabriel",
+    "last": "Rosario",
+    "num": "13",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Lionel",
+    "last": "Crispin",
+    "num": "14",
+    "pos": "PG",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Joel",
+    "last": "Lopez",
+    "num": "17",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Joseph",
+    "last": "Dimaio",
+    "num": "20",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Yahir",
+    "last": "Cordero",
+    "num": "24",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Gilberto",
+    "last": "Vargas",
+    "num": "30",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Jeremy",
+    "last": "Altreche",
+    "num": "31",
+    "pos": "SG",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Marvin",
+    "last": "Mantilla",
+    "num": "45",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Leroy",
+    "last": "Crispin",
+    "num": "81",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Gallitos · Isabela",
+    "first": "Isaac",
+    "last": "Velez",
+    "num": "99",
+    "pos": "SF",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Yadiel",
+    "last": "Concepcion",
+    "num": "0",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Carlos",
+    "last": "Feliciano",
+    "num": "7",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Kreisler",
+    "last": "Trinidad",
+    "num": "9",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Jonathan",
+    "last": "Octaviani",
+    "num": "10",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Joseph",
+    "last": "Barreto",
+    "num": "11",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Fernando",
+    "last": "Barreto",
+    "num": "12",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Jaycob",
+    "last": "Colon",
+    "num": "21",
+    "pos": "SF",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Jan",
+    "last": "Vazquez",
+    "num": "22",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Ogel",
+    "last": "Santiago",
+    "num": "23",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Kelvin",
+    "last": "Alvarez",
+    "num": "41",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Industriales · Barceloneta",
+    "first": "Hector",
+    "last": "Colon",
+    "num": "50",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Ryan",
+    "last": "Martinez",
+    "num": "2",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Nick",
+    "last": "Lucena",
+    "num": "3",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Christian",
+    "last": "Soto",
+    "num": "4",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Jose",
+    "last": "Montalvo",
+    "num": "5",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Kenneth",
+    "last": "Bayron",
+    "num": "7",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Douglas",
+    "last": "Otero",
+    "num": "8",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Luis Edgardo",
+    "last": "Martinez",
+    "num": "9",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Jose",
+    "last": "Torres",
+    "num": "10",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Wendell",
+    "last": "Barreto",
+    "num": "11",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Gilberto",
+    "last": "Acevedo",
+    "num": "12",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "John",
+    "last": "Barreto",
+    "num": "13",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Miguel",
+    "last": "Andujar",
+    "num": "16",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Rey",
+    "last": "Pellot",
+    "num": "18",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Jimanny",
+    "last": "Velez",
+    "num": "19",
+    "pos": "PF",
+    "file": ""
+   },
+   {
+    "team": "La tribu · Mayagüez",
+    "first": "Giovanni",
+    "last": "Baerga",
+    "num": "23",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Jonathan",
+    "last": "Rivera",
+    "num": "0",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Luis",
+    "last": "Henriquez",
+    "num": "1",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Alex",
+    "last": "Rodriguez",
+    "num": "2",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Jovan",
+    "last": "Powell",
+    "num": "3",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Samuel",
+    "last": "Valentin",
+    "num": "5",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Miguel",
+    "last": "Roman",
+    "num": "8",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Christian",
+    "last": "Rivera",
+    "num": "12",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Ricardo",
+    "last": "Romero",
+    "num": "13",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Christopher",
+    "last": "Reyes",
+    "num": "17",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Kelvin",
+    "last": "Maldonado",
+    "num": "18",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Hector",
+    "last": "Natal",
+    "num": "20",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Fernando",
+    "last": "Cardona",
+    "num": "24",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Sariel",
+    "last": "Lopez",
+    "num": "28",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Eduardo",
+    "last": "Abreu",
+    "num": "34",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Leñeros · Lares",
+    "first": "Jose",
+    "last": "Lopez",
+    "num": "55",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Joshua",
+    "last": "Pellot",
+    "num": "2",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Hecdiel",
+    "last": "Castillo",
+    "num": "5",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Luis",
+    "last": "Rodriguez",
+    "num": "5",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Ryan",
+    "last": "Mercado",
+    "num": "6",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Ruben",
+    "last": "Soto",
+    "num": "10",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Deryk",
+    "last": "Gonzalez",
+    "num": "11",
+    "pos": "SG",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Edinel",
+    "last": "Ramirez",
+    "num": "13",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Wesley",
+    "last": "Amadeo",
+    "num": "14",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Geovanni",
+    "last": "Ayala",
+    "num": "15",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Andrew",
+    "last": "Carmenatty",
+    "num": "17",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Jadiel",
+    "last": "Ozuna",
+    "num": "20",
+    "pos": "SG",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Armando",
+    "last": "Torres",
+    "num": "21",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Kevin",
+    "last": "Rivera",
+    "num": "22",
+    "pos": "SG",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Guillermo",
+    "last": "Olivieri",
+    "num": "23",
+    "pos": "PF",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Luis",
+    "last": "Cardona",
+    "num": "24",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Dereck",
+    "last": "Sepulveda",
+    "num": "30",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Ektor",
+    "last": "Blanchero",
+    "num": "34",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Geryad",
+    "last": "Rosario",
+    "num": "45",
+    "pos": "PF",
+    "file": ""
+   },
+   {
+    "team": "Peregrinos · Hormigueros",
+    "first": "Jiaan",
+    "last": "Ramos",
+    "num": "77",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Joniel",
+    "last": "Rivera",
+    "num": "6",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Justin",
+    "last": "Molina",
+    "num": "9",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Wesley",
+    "last": "Rivera",
+    "num": "11",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Miguel",
+    "last": "Rodriguez",
+    "num": "13",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Joamil",
+    "last": "Perez",
+    "num": "14",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Jadiel",
+    "last": "Harrison",
+    "num": "15",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Nahim",
+    "last": "Rodriguez",
+    "num": "22",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Jean",
+    "last": "Concepcion",
+    "num": "23",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Nathaniel",
+    "last": "Maldonado",
+    "num": "24",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Andres",
+    "last": "Torres",
+    "num": "33",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Joseph",
+    "last": "Perez",
+    "num": "50",
+    "pos": "C/PF",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Johnpaul",
+    "last": "Gonzalez",
+    "num": "90",
+    "pos": "C",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Christopher",
+    "last": "Soto",
+    "num": "91",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Piratas · Quebradillas",
+    "first": "Yadiel",
+    "last": "Soto",
+    "num": "92",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Yandel",
+    "last": "Santiago",
+    "num": "0",
+    "pos": "SG/SF",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Joel",
+    "last": "Quinones",
+    "num": "2",
+    "pos": "SF",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Oswald",
+    "last": "Vega",
+    "num": "3",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Kelier",
+    "last": "Matias",
+    "num": "4",
+    "pos": "SG/SF",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Christian",
+    "last": "Abreu",
+    "num": "5",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Darell",
+    "last": "Medina",
+    "num": "6",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Angel",
+    "last": "Pellot",
+    "num": "10",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Jaycob",
+    "last": "Benejan",
+    "num": "12",
+    "pos": "SF",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Joel",
+    "last": "Acevedo",
+    "num": "15",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Juan",
+    "last": "Nieves",
+    "num": "17",
+    "pos": "SG/SF",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Alex",
+    "last": "Soto",
+    "num": "18",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Jermaine",
+    "last": "Sanchez",
+    "num": "20",
+    "pos": "PG",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Yansius",
+    "last": "Gonzalez",
+    "num": "23",
+    "pos": "PF",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Ricardo",
+    "last": "Ponce",
+    "num": "25",
+    "pos": "G",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Jonathan",
+    "last": "Rios",
+    "num": "30",
+    "pos": "SG",
+    "file": ""
+   },
+   {
+    "team": "Tiburones 603 · Aguadilla",
+    "first": "Jatzeel",
+    "last": "Barros",
+    "num": "32",
+    "pos": "F",
+    "file": ""
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Joessel",
+    "last": "Jimenez",
+    "num": "0",
+    "pos": "G",
+    "file": "Santeros/Joessel_Jimenez.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Michael",
+    "last": "Floyd",
+    "num": "5",
+    "pos": "",
+    "file": "Santeros/Michael_Floyd.png"
+   },
+   {
+    "team": "Santeros · Aguada",
+    "first": "Hectiel",
+    "last": "Castillo",
+    "num": "12",
+    "pos": "F",
+    "file": "Santeros/Hecdiel_Castillo.png"
+   }
+  ],
+  "teams": {
+   "Santeros · Aguada": {
+    "record": "0-1",
+    "oppPpg": "81.0",
+    "tp": "15%",
+    "ppg": "77.0",
+    "reb": "53",
+    "to": "15",
+    "fort": [
+     "Test 1",
+     "TEst2",
+     "TEST 3"
+    ],
+    "tend": [
+     "Contra 1",
+     "Contra 2",
+     "contra 3"
+    ],
+    "clave": " Defender la Pintura"
+   }
+  },
+  "pstats": {},
+  "meta": {
+   "rev": 36,
+   "savedAt": 1794146090881,
+   "savedBy": "LOQYanier"
+  }
+ },
+ "manual": {
+  "sheets": [
+   {
+    "name": "Manual 1",
+    "slug": "manual-1",
+    "cols": [
+     "TITULO",
+     "TEXTO"
+    ],
+    "rows": [
+     [
+      "",
+      ""
+     ]
+    ]
+   }
+  ]
+ }
+}
