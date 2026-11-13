@@ -1,12 +1,12 @@
 {
  "export": "statsbridge-bundle",
  "v": 1,
- "publishedAt": 1794182589168,
- "publishedBy": "Danny-PC",
+ "publishedAt": 1794529109963,
+ "publishedBy": "LOQYanier",
  "prep": {
   "v": 2,
   "config": {
-   "baseUrl": "https://raw.githubusercontent.com/ymmstudios/imagenes-graficos-vmix-santeros/",
+   "baseUrl": "https://raw.githubusercontent.com/ymmstudios/imagenes-graficos-vmix-santeros/main/",
    "defaultPhoto": ""
   },
   "players": [
@@ -1236,97 +1236,33 @@
     "reb": "53",
     "to": "15",
     "fort": [
-     "Defender la Pintura",
-     "Hacer sentir a Justin Davis como parte del grupo",
-     "Consistencia"
+     "Test 1",
+     "TEst2",
+     "TEST 3"
     ],
     "tend": [
-     " ",
-     " ",
-     " "
+     "Contra 1",
+     "Contra 2",
+     "contra 3"
     ],
-    "clave": " "
-   },
-   "Cafeteros · Yauco": {
-    "record": "",
-    "oppPpg": "",
-    "tp": "",
-    "ppg": "",
-    "reb": "",
-    "to": "",
-    "fort": [
-     "",
-     "",
-     ""
-    ],
-    "tend": [
-     "",
-     "",
-     ""
-    ],
-    "clave": ""
+    "clave": " Defender la Pintura"
    }
   },
-  "pstats": {
-   "Santeros · Aguada|Nehiel Perez": {
-    "ppg": "14",
-    "rpg": "4",
-    "apg": "2",
-    "spg": "",
-    "fg": "",
-    "tp": "33.3"
-   },
-   "Santeros · Aguada|Carlos Barea": {
-    "ppg": "14",
-    "rpg": "13",
-    "apg": "3",
-    "spg": "",
-    "fg": "83.3",
-    "tp": "0"
-   }
-  },
+  "pstats": {},
   "meta": {
-   "rev": 86,
-   "savedAt": 1794178092750,
-   "savedBy": "Danny-PC"
+   "rev": 36,
+   "savedAt": 1794146090881,
+   "savedBy": "LOQYanier"
   }
  },
  "manual": {
   "sheets": [
    {
-    "name": "Polo CG",
-    "slug": "polo-cg",
+    "name": "Manual 1",
+    "slug": "manual-1",
     "cols": [
      "TITULO",
      "TEXTO"
-    ],
-    "rows": [
-     [
-      "Geovanny Polo",
-      "Analista"
-     ]
-    ]
-   },
-   {
-    "name": "issary CG",
-    "slug": "issary-cg",
-    "cols": [
-     "A",
-     "B"
-    ],
-    "rows": [
-     [
-      "Issary Cotto",
-      "Analista"
-     ]
-    ]
-   },
-   {
-    "name": "CONTEXTO",
-    "slug": "contexto",
-    "cols": [
-     "A",
-     "B"
     ],
     "rows": [
      [
